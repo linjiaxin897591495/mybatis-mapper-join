@@ -1,10 +1,3 @@
-/*
- *
- * Copyright (C) 1999-2016 IFLYTEK Inc.All Rights Reserved.
- * History：
- * Version   Author      Date                              Operation
- * 1.0       yaochen4    2016/8/8                           Create
- */
 package com.piggsoft.mapper.join;
 
 import java.lang.annotation.ElementType;
